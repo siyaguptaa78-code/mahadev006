@@ -23,6 +23,9 @@ export const metadata: Metadata = {
   authors: [{ name: "Mahadev Book" }],
   creator: "Mahadev Book",
   robots: "index, follow",
+  verification: {
+    google: "EYRakIGhoJ3tW7ot4qVi1THneMdzXvdCC_HWwzGrwdM",
+  },
   openGraph: {
     title: "Mahadev Book - India's Most Trusted Online Betting Platform",
     description: "Join Mahadev Book for secure betting on cricket, casino & more. Fast login, UPI deposits & 24/7 support. Win big with Mahadev Book.",
