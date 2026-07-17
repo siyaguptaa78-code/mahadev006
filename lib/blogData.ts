@@ -115,5 +115,84 @@ export const blogPosts: BlogPost[] = [
       </ul>
       <p>Log into your Lotus Book ID to access live odds, in-play statistics, and instant bet slips for every ball of the series.</p>
     `
+  },
+  {
+    slug: "messi-vs-ronaldo",
+    title: "Messi vs Ronaldo: The Numbers, Settled?",
+    excerpt: "Messi vs Ronaldo in July 2026: 919 goals vs 974, eight Ballons d'Or vs five, and one last World Cup between them. The full stats comparison, updated as they play.",
+    date: "July 14, 2026",
+    category: "Football",
+    icon: "⚽",
+    readTime: "5 min read",
+    content: `
+      <p>The rivalry of the generations, and it seems that it is coming to an end - or, rather, to a new beginning, as the two footballers are set to break records yet again. As of July 2026, Cristiano Ronaldo has the highest number of goals ever scored by a single player, and Lionel Messi has become the all-time leading scorer at the World Cup. Choose your side and compare the stats below, which are up to date as of the 2026 World Cup.</p>
+
+      <h3>Messi vs Ronaldo: The Headline Numbers</h3>
+      <p>As of July 2026:</p>
+      <table>
+        <thead>
+          <tr>
+            <th>Metric</th>
+            <th>Messi</th>
+            <th>Ronaldo</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Career goals</td>
+            <td>919</td>
+            <td>974</td>
+          </tr>
+          <tr>
+            <td>Club goals</td>
+            <td>794</td>
+            <td>828</td>
+          </tr>
+          <tr>
+            <td>International goals</td>
+            <td>125</td>
+            <td>146</td>
+          </tr>
+          <tr>
+            <td><a href="/ballon-dor-winners/">Ballon d'Or</a> wins</td>
+            <td>8</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td><a href="/fifa-world-cup-winners-list/">World Cups won</a></td>
+            <td>1 (2022)</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>World Cup goals</td>
+            <td>21 (all-time record)</td>
+            <td>—</td>
+          </tr>
+          <tr>
+            <td>Age</td>
+            <td>39</td>
+            <td>41</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <h3>The Goals Race</h3>
+      <p>Ronaldo currently holds the lead by a long shot — 974 to 919 — and the milestone in his sights gives him a chance at becoming the first-ever player to score 1,000 career goals, needing 26 more. For Ronaldo, the 2026 tournament is his last World Cup, but his club career continues, and the countdown will follow him wherever he plays. Messi trails on goals and always has; his side of the ledger is the 300+ career assists — comfortably the most of the two — and eight <a href="/ballon-dor-winners/">Ballon d'Or</a> wins to Ronaldo's five, the numbers his supporters reach for when volume alone doesn't settle the argument.</p>
+
+      <h3>Trophies and Individual Awards</h3>
+      <p>Messi's tally of the game's biggest individual and international honours — the eight <a href="/ballon-dor-winners/">Ballons d'Or</a> and the 2022 World Cup — gives him the edge on most neutral ledgers, alongside his two Copa América titles; Ronaldo's international haul is a European Championship and the Nations League with Portugal. In the Champions League, Ronaldo leads five titles to four. Both have had long and prolific club careers, and their achievements are similar in that regard. Most analysts lean Messi on peaks and honours, Ronaldo on totals and longevity — and the appeal of Ronaldo's game, his ability to perform at the highest level for so long, is no less impressive. It remains genuinely difficult to single out one as objectively better, which is why the argument has lasted twenty years.</p>
+
+      <h3>One Last World Cup</h3>
+      <p>The 2026 World Cup is confirmed as Ronaldo's last — while Messi, remarkably, has hinted at returning for the 2030 tournament at the age of 43. On the pitch, Messi has already made the tournament his: he broke Miroslav Klose's all-time World Cup scoring record of 16 during the group stage against Austria, and has since pushed his career tally to 21 World Cup goals, with Argentina still alive as the final on 19th July approaches. This article will be updated after the World Cup final.</p>
+
+      <h3>Messi vs Ronaldo FAQs</h3>
+      <p><strong>Who has more goals, Messi or Ronaldo?</strong> As of July 2026, Cristiano Ronaldo has more career goals than Lionel Messi. Ronaldo has scored 974 goals in his career, while Messi has 919.</p>
+      <p><strong>Who has more Ballons d'Or, Messi or Ronaldo?</strong> Lionel Messi has more <a href="/ballon-dor-winners/">Ballons d'Or</a> than Cristiano Ronaldo. Messi has won the prestigious award eight times, while Ronaldo has five to his name.</p>
+      <p><strong>Who has the most goals in World Cup history?</strong> Lionel Messi holds the record. He passed Miroslav Klose's previous mark of 16 during the 2026 World Cup and has taken his all-time World Cup tally to 21 goals.</p>
+      <p><strong>Has Ronaldo won a World Cup?</strong> No, Ronaldo has not won a World Cup, which is arguably his only significant deficiency compared to Messi, who won the 2022 World Cup. Ronaldo has declared the 2026 World Cup to be his last, while Messi has hinted at playing the 2030 edition.</p>
+      <p><strong>Will Ronaldo score 1,000 career goals?</strong> As of July 2026, Ronaldo has 974 career goals and needs 26 more to reach the 1,000-goal mark — likely if his current scoring rate continues.</p>
+
+      <p><em>Last updated: 14 July 2026 — mid-World Cup. Updated after the final on 19 July and as both careers continue. Figures per verified aggregators.</em></p>
+    `
   }
 ];

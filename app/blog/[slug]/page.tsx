@@ -1,5 +1,5 @@
 import { blogPosts } from "../../../lib/blogData";
-import { notFound } from "next/navigation";
+import { notFound, redirect } from "next/navigation";
 import Link from "next/link";
 import { Calendar, Clock, ChevronLeft } from "lucide-react";
 import type { Metadata } from "next";
@@ -46,6 +46,9 @@ interface PageProps {
 
 export default async function BlogPostPage({ params }: PageProps) {
   const resolvedParams = await params;
+  if (resolvedParams.slug === 'messi-vs-ronaldo') {
+    redirect('/messi-vs-ronaldo/');
+  }
   const post = blogPosts.find((p) => p.slug === resolvedParams.slug);
 
   if (!post) {
